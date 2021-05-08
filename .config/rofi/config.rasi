@@ -1,0 +1,7 @@
+configuration {
+	modi: "drun";
+	show-icons: true;         
+	columns: 3;
+	font: "Overpass Mono 14";
+	theme: "gruvbox-dark";
+}
